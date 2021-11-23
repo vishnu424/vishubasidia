@@ -1,0 +1,61 @@
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 32px;
+  padding: 20px;
+  text-align: center;
+  background: white;
+  border-right: 3px solid black;
+}
+
+.Topics {
+  height: 32px;
+  text-align: center;
+  color: white;
+  background: black;
+}
+.site-layout .site-layout-background {
+  background: #ffff;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px;
+}
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.formContainer {
+  display: flex;
+  align-items: center;
+}
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+}
+.addTopicButton {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+.inputElement {
+  display: flex;
+  width: 175px;
+}
+
+.statusContainer {
+  display: flex;
+  list-style: none;
+}
+
+.topicsHeading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

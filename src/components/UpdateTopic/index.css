@@ -1,0 +1,14 @@
+.UpdateInputContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 16vw;
+  margin-bottom: 10px;
+}
+.editFormContainer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}

@@ -1,0 +1,5 @@
+export const ADD_TOPIC = 'ADD_TOPIC'
+export const DELETE_TOPIC = 'DELETE_TOPIC'
+export const UPDATE_TOPIC = 'UPDATE_TOPIC'
+export const SET_ACTIVESTATUS = 'SET_ACTIVESTATUS'
+export const INTIAL_STATE = ' INTIAL_STATE '
